@@ -12,7 +12,7 @@ if (media  >= 7) {
         console.log (`Reprovado, com média: $(media)`)
     }
 }*/
-//----------- correção:
+
 
 const notaProva1 = 5;
 const notaProva2 = 4;
